@@ -1,52 +1,67 @@
-# [Your Name]
-### Full-Stack Software Developer
+<div align="center">
 
-Experienced full-stack developer specialising in building scalable web applications — from architecture and API design through to polished user interfaces. Focused on writing maintainable code and shipping products that solve real problems.
+# Hey, I'm Bruno 👋
 
----
+**Full-Stack Developer** &nbsp;·&nbsp; Switzerland 🇨🇭 &nbsp;·&nbsp; Building things that work and feel good to use
 
-## Technical Skills
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/brunoascic)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://yoursite.com)
 
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-### Backend & Infrastructure
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+</div>
 
 ---
 
-## Current Projects
+### 🧑‍💻 About me
 
-| Project | Description | Stack |
-|---|---|---|
-| [Project Name](https://github.com/you/project) | What it does | React · Node · Postgres |
-| [Project Name](https://github.com/you/project) | What it does | Next.js · Python · Redis |
+I'm a full-stack developer based in Switzerland, currently working at **3S Swiss Solar Solutions AG**. I enjoy building across the whole stack — clean APIs, responsive UIs, and the details that make a product feel polished.
 
----
-
-## GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunoascic&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoascic&layout=compact&hide_border=true)
+- 🔭 &nbsp;Working on **solar industry software** at 3S Swiss Solar Solutions
+- 🌱 &nbsp;Currently leveling up in **TypeScript & modern React patterns**
+- 💬 &nbsp;Ask me about **React, TypeScript, full-stack architecture**
+- ⚡ &nbsp;Based in **Switzerland** · UTC+2
 
 ---
 
-## Contact
+### 🛠️ Tech I work with
 
-I'm open to interesting projects and collaborations.
+<div align="center">
 
-- 📧 **Email:** [your@email.com](mailto:your@email.com)
-- 💼 **LinkedIn:** [linkedin.com/in/yourhandle](https://linkedin.com/in/yourhandle)
-- 🌐 **Portfolio:** [yoursite.com](https://yoursite.com)
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend & Tools**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunoascic&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true)
+&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoascic&layout=compact&theme=github_dark_dimmed&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*Open to interesting projects, collaborations, and conversations.*
+
+**[📬 Get in touch](mailto:your@email.com)**
+
+</div>
