@@ -4,8 +4,8 @@
 
 **Full-Stack Developer** &nbsp;·&nbsp; Switzerland 🇨🇭 &nbsp;·&nbsp; Building things that work and feel good to use
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/brunoascic)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-ascic-234377328/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:brunoascic6@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://yoursite.com)
 
 </div>
@@ -50,9 +50,9 @@ I'm a full-stack developer based in Switzerland, currently working at **3S Swiss
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunoascic&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoascic&layout=compact&theme=github_dark_dimmed&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunoascic&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoascic&layout=compact&theme=github_dark_dimmed&hide_border=true&cache_seconds=1800)
 
 </div>
 
@@ -62,6 +62,6 @@ I'm a full-stack developer based in Switzerland, currently working at **3S Swiss
 
 *Open to interesting projects, collaborations, and conversations.*
 
-**[📬 Get in touch](mailto:your@email.com)**
+**[📬 Get in touch](mailto:brunoascic6@gmail.com)**
 
 </div>
