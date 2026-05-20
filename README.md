@@ -49,7 +49,7 @@ I'm a full-stack developer based in Switzerland, currently working at **3S Swiss
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=brunoascic&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=brunoascic)](https://git.io/streak-stats)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=brunoascic&style=flat-square&color=blue&label=Profile+Views)
 
