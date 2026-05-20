@@ -22,6 +22,7 @@ When I'm not coding, I'm exploring new technologies, tinkering with side project
 - 🔭 &nbsp;Working on **solar industry software** at 3S Swiss Solar Solutions
 - 🌱 &nbsp;Currently leveling up in **TypeScript & modern React patterns**
 - 🧠 &nbsp;Interested in **system design, developer tooling & clean architecture**
+- ☁️ &nbsp;Currently exploring **cloud infrastructure & cybersecurity**
 - 💬 &nbsp;Ask me about **React, TypeScript, Node.js, or full-stack architecture**
 - 🤝 &nbsp;Open to **collaborations, interesting projects & new opportunities**
 - ⚡ &nbsp;Based in **Switzerland** · UTC+2
