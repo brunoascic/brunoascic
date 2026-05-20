@@ -13,11 +13,17 @@
 
 ### 🧑‍💻 About me
 
-I'm a full-stack developer based in Switzerland, currently working at **3S Swiss Solar Solutions AG**. I enjoy building across the whole stack — clean APIs, responsive UIs, and the details that make a product feel polished.
+I'm a full-stack developer based in Switzerland with a passion for building products end-to-end — from architecting databases and APIs to crafting responsive, user-friendly interfaces. I care about code quality, clean design, and shipping things that actually work in production.
+
+Currently working at **3S Swiss Solar Solutions AG**, where I build software for the solar energy industry. I enjoy working in fast-moving environments where I can take ownership and contribute across the whole stack.
+
+When I'm not coding, I'm exploring new technologies, tinkering with side projects, or enjoying everything Switzerland has to offer 🏔️
 
 - 🔭 &nbsp;Working on **solar industry software** at 3S Swiss Solar Solutions
 - 🌱 &nbsp;Currently leveling up in **TypeScript & modern React patterns**
-- 💬 &nbsp;Ask me about **React, TypeScript, full-stack architecture**
+- 🧠 &nbsp;Interested in **system design, developer tooling & clean architecture**
+- 💬 &nbsp;Ask me about **React, TypeScript, Node.js, or full-stack architecture**
+- 🤝 &nbsp;Open to **collaborations, interesting projects & new opportunities**
 - ⚡ &nbsp;Based in **Switzerland** · UTC+2
 
 ---
@@ -49,9 +55,8 @@ I'm a full-stack developer based in Switzerland, currently working at **3S Swiss
 
 <div align="center">
 
-![Bruno's GitHub Stats](https://github-readme-stats-blush-two-43.vercel.app/api?username=brunoascic&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats-blush-two-43.vercel.app/api/top-langs/?username=brunoascic&layout=compact&theme=github_dark_dimmed&hide_border=true)
+<img height="160" src="https://github-readme-stats-blush-two-43.vercel.app/api?username=brunoascic&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats-blush-two-43.vercel.app/api/top-langs/?username=brunoascic&layout=compact&theme=github_dark_dimmed&hide_border=true" />
 
 </div>
 
