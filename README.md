@@ -49,9 +49,9 @@ I'm a full-stack developer based in Switzerland, currently working at **3S Swiss
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=brunoascic&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true" alt="Bruno's GitHub Stats" />
+![Bruno's GitHub Stats](https://github-readme-stats-blush-two-43.vercel.app/api?username=brunoascic&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoascic&layout=compact&theme=github_dark_dimmed&hide_border=true" alt="Top Languages" />
+![Top Languages](https://github-readme-stats-blush-two-43.vercel.app/api/top-langs/?username=brunoascic&layout=compact&theme=github_dark_dimmed&hide_border=true)
 
 </div>
 
