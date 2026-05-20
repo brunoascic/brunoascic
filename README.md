@@ -49,9 +49,9 @@ I'm a full-stack developer based in Switzerland, currently working at **3S Swiss
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=brunoascic)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=brunoascic&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true" alt="Bruno's GitHub Stats" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=brunoascic&style=flat-square&color=blue&label=Profile+Views)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoascic&layout=compact&theme=github_dark_dimmed&hide_border=true" alt="Top Languages" />
 
 </div>
 
