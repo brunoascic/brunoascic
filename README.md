@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-ascic-234377328/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:brunoascic6@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://yoursite.com)
 
 </div>
 
@@ -50,9 +49,9 @@ I'm a full-stack developer based in Switzerland, currently working at **3S Swiss
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunoascic&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&cache_seconds=1800)
+[![GitHub Streak](https://streak-stats.demolab.com?user=brunoascic&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoascic&layout=compact&theme=github_dark_dimmed&hide_border=true&cache_seconds=1800)
+![Profile Views](https://komarev.com/ghpvc/?username=brunoascic&style=flat-square&color=blue&label=Profile+Views)
 
 </div>
 
