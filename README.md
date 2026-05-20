@@ -5,7 +5,7 @@
 **Full-Stack Developer** &nbsp;·&nbsp; Switzerland 🇨🇭 &nbsp;·&nbsp; Building things that work and feel good to use
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-ascic-234377328/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://brunoascic.dev)
 
 </div>
 
